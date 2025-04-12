@@ -1,4 +1,4 @@
-# D&D Campaign Tracker
+# Campaigns And Creations
 A new and easy to use tracker for your (custom) campaigns! Design your own campaign and have the option to share these with others or keep an overview of your character sheets and team actions, D&D campaign tracker 
 has it all!
 
