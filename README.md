@@ -24,5 +24,6 @@ See the [LICENSE](./LICENSE) file for details and attribution.
 
 ## Wireframes
 [Figma Wireframes](https://www.figma.com/design/RLiI7ePUwqgIIXpvwxqb1J/D-D-Campaign-Tracker?node-id=1-2&t=a5l7Ez3lu5IkG8qX-1)
+These are a work in progress.
 
 For Access Approval and requested changes contact [@WoestijnIvy](https://github.com/WoestijnIvy)
