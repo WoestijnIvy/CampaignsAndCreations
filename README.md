@@ -7,6 +7,8 @@ This project is licensed under the [Polyform Noncommercial License 1.0.0](https:
 You may use, modify, and share this software for personal, research, or noncommercial use only.  
 Commercial use is prohibited.
 
+See the [LICENSE](./LICENSE) file for details and attribution.
+
 ## Tech Stack
 - React.js
 - Tailwind
