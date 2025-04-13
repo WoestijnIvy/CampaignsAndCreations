@@ -1,6 +1,12 @@
 # Campaigns And Creations
 A new and easy to use tracker for your (custom) campaigns! Design your own campaign and have the option to share these with others or keep an overview of your character sheets and team actions, Campaigns and Creations has it all!
 
+## License
+
+This project is licensed under the [Polyform Noncommercial License 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0/).  
+You may use, modify, and share this software for personal, research, or noncommercial use only.  
+Commercial use is prohibited.
+
 ## Tech Stack
 - React.js
 - Tailwind
